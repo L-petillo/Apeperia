@@ -1,2 +1,2 @@
-# Apeperia
-Site de compras de apps
+# projeto-apeperia
+Arquivos do projeto para a Apeperia
